@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack web developer
 -----------------------
 
-I've been learning to code for 6 years now. I started with HTML and CSS and built some small school projects and later I started diving deeper into web development I started searching for courses online to teach me basic HTML & CSS also learned SASS to organize me CSS code for large projects. About two years ago I started learning NodeJS on MDN after that I dived deeper into NodeJs and extended my knowledge by taking the advanced full-stack web development nano degree provided by Udacity and EGFWD.
+I've been learning to code for 6 years now. I started with HTML and CSS and built some small school projects and later I started diving deeper into web development I started searching for courses online to teach me basic HTML & CSS also learned SASS to organize my CSS code for large projects. About two years ago I started learning NodeJS on MDN after that I dived deeper into NodeJs and extended my knowledge by taking the advanced full-stack web development nano degree provided by Udacity and EGFWD.
 
 *   🌍  I'm based in Egypt (Beni-suef)
 *   ✉️  You can contact me at [omarmasoudonline@gmail.com](mailto:omarmasoudonline@gmail.com)
