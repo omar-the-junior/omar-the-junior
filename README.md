@@ -8,7 +8,7 @@ I began with HTML and CSS, creating small school projects, and then I explored m
 
 * 🌍  I'm based in Beni-Suef Egypt
 * ✉️  You can contact me at [omarmasoudonline@gmail.com](mailto:omarmasoudonline@gmail.com)
-* 🧠  I'm learning VueJs
+* 🧠  I'm learning Next.js
 
 ### Skills
 
