@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Currently on a **100-day journey from good to great software engineering** — building production-quality full-stack systems, deepening backend architecture skills, and sharing practical lessons along the way.
 
-* 🌍  Based in Beni-Suef, Egypt | **Open to remote opportunities globally**
+* 🌍  Based in Egypt | **Open to remote opportunities globally**
 * ✉️  You can contact me at [omarmasoudonline@gmail.com](mailto:omarmasoudonline@gmail.com)
 * 🚀  **From Good to Great SWE**: 100-day public learning journey
 * 📝  Writing weekly technical deep-dives on [omarjr.dev](https://omarjr.dev)
