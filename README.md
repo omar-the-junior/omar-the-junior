@@ -90,7 +90,7 @@ I write weekly technical deep-dives on [**omarjr.dev**](https://omarjr.dev) as p
 
 <div align="center">
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar-the-junior&show_icons=true&count_private=true&title_color=64ffda&text_color=ffffff&icon_color=64ffda&bg_color=1c1917&hide_border=true)
+![Omar's GitHub stats](https://readme-stats-fast.vercel.app/api?username=omar-the-junior&show_icons=true&count_private=true&title_color=64ffda&text_color=ffffff&icon_color=64ffda&bg_color=1c1917&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omar-the-junior&stroke=ffffff&background=1c1917&ring=64ffda&fire=64ffda&currStreakNum=ffffff&currStreakLabel=64ffda&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
@@ -102,7 +102,7 @@ I write weekly technical deep-dives on [**omarjr.dev**](https://omarjr.dev) as p
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=omar-the-junior&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-rstar327.vercel.app/api/?username=omar-the-junior&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -112,7 +112,7 @@ I write weekly technical deep-dives on [**omarjr.dev**](https://omarjr.dev) as p
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-the-junior&langs_count=10&title_color=64ffda&text_color=ffffff&icon_color=64ffda&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact)
+![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=omar-the-junior&langs_count=10&title_color=64ffda&text_color=ffffff&icon_color=64ffda&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact)
 
 </div>
 
