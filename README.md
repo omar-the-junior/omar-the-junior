@@ -25,7 +25,6 @@ Currently on a **100-day journey from good to great software engineering** — b
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://reactrouter.com/" target="_blank" rel="noreferrer"><img src="https://reactrouter.com/_brand/react-router-mark-color-inverted.svg" width="36" height="36" alt="React Router" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://adonisjs.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/13810373?s=200&v=4" width="36" height="36" alt="AdonisJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
@@ -91,9 +90,9 @@ I write weekly technical deep-dives on [**omarjr.dev**](https://omarjr.dev) as p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omar-the-junior&show_icons=true&count_private=true&title_color=64ffda&text_color=ffffff&icon_color=64ffda&bg_color=1c1917&hide_border=true&show=reviews,prs_merged,prs_merged_percentage" alt="Omar's GitHub stats" />
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar-the-junior&show_icons=true&count_private=true&title_color=64ffda&text_color=ffffff&icon_color=64ffda&bg_color=1c1917&hide_border=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-the-junior&stroke=ffffff&background=1c1917&ring=64ffda&fire=64ffda&currStreakNum=ffffff&currStreakLabel=64ffda&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omar-the-junior&stroke=ffffff&background=1c1917&ring=64ffda&fire=64ffda&currStreakNum=ffffff&currStreakLabel=64ffda&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
 </div>
 
@@ -103,7 +102,7 @@ I write weekly technical deep-dives on [**omarjr.dev**](https://omarjr.dev) as p
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=omar-the-junior&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=omar-the-junior&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -113,21 +112,7 @@ I write weekly technical deep-dives on [**omarjr.dev**](https://omarjr.dev) as p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-the-junior&langs_count=10&title_color=64ffda&text_color=ffffff&icon_color=64ffda&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omar-the-junior/omar-the-junior/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omar-the-junior/omar-the-junior/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/omar-the-junior/omar-the-junior/output/github-contribution-grid-snake.svg">
-</picture>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-the-junior&langs_count=10&title_color=64ffda&text_color=ffffff&icon_color=64ffda&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact)
 
 </div>
 
